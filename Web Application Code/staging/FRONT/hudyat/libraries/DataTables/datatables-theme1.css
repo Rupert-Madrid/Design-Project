@@ -1,0 +1,13 @@
+th.sorting, th.sorting_asc, th.sorting_desc {
+    background: #1d69b9;
+    border: 1px solid #649bd6;
+    color: white;
+    padding-left: 4px;
+}
+
+table.dataTable tbody td {
+    background: white;
+    border: 1px solid #333131;
+    padding: 1px;
+    padding-left: 5px;
+}
